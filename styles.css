@@ -7,4 +7,7 @@ body {
     font-family: arial;
     background: orange;
     color: blue;
+    background-image: url("https://media.accounts.nintendo.com/reward/wallpaper/Splatoon2_[A]_Inkling_Squid_[640x1136].jpg?Expires=1520115306&Key-Pair-Id=APKAJHGKWFAJ2QQDJNQA&Signature=OZLQs2AlbvhSbi2wZlYnH02tr1VleU~uahcAUWWjgwxx~cVocHtypoRoSTsW1Lh~aOG5KAQuv9vU8Eu7kq1i1gqbJ8xkAQhcNA0rpGvG6VqFF8-5rBecjsUnF8lQBGQ-MuXk4LWPcGEkZWWMV5DGdkklldmjakGWlmfDj4OOC7gPc4YL9675ONYQXM0W~HBRJMOQwjmFqcG1rpP7aI~UZ206CnuJlHsPMYG-4J9K9YkFvRzX6KyuRkv-fJGxflNLeuuzd3dPpUgirOdcL9g1f1kjiiemlTpnmep86a~XqQtJLnOjPPU1I2G~7tS2UV4xzKF8O6X6ltG23JveJX27gA__");
+    background-repeat: no-repeat;
+    background-size: 525px 570px;
 }
